@@ -38,6 +38,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>
 </div>
+
+
+---
+
+### 🔥 My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vczaran&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vczaran)](https://github.com/anuraghazra/github-readme-stats)
+
     
 <!---
 vczaran/vczaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
