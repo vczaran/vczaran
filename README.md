@@ -20,7 +20,6 @@
   * Traveller ✈️
   * Animal lover 🐶🐱🐴🐰
   * NYC based
-  * Email: vczaran@gmail.com
 
 
 
