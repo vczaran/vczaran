@@ -19,7 +19,6 @@
   * Software Engineer 💻
   * Traveller ✈️
   * Animal lover 🐶🐱🐴🐰
-  * NYC based
 
 
 
